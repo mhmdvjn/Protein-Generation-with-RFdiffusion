@@ -1,0 +1,11 @@
+cond_b_alternative:
+  input: ../data/target_5O45.pdb
+  contig: 60-90,/0,A18-132
+  select_hotspots:
+    A66: "CB,CG,CD"
+    A68: "CB,CG1,CG2"
+    A75: "CB,CG,CD,CE,NZ"
+  infer_ori_strategy: hotspots
+  is_non_loopy: True
+
+

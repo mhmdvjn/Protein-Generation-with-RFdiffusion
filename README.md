@@ -1,5 +1,8 @@
 # Protein Generation with RFdiffusion
 
+
+./test/scripts/run_pipeline.sh
+
 Student project repository for **RFdiffusion**-based de novo protein generation and design.
 University course — Bioinformatics / Computational Biology, Semester 1.
 

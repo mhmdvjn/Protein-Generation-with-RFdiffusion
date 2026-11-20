@@ -1,0 +1,9 @@
+cond_a_canonical:
+  input: ../data/target_5O45.pdb
+  contig: 60-90,/0,A18-132
+  select_hotspots:
+    A56: "CB,CG,CD1,CD2,CE1,CE2,CZ,OH"
+    A115: "CB,CG,SD,CE"
+    A123: "CB,CG,CD1,CD2,CE1,CE2,CZ,OH"
+  infer_ori_strategy: hotspots
+  is_non_loopy: True

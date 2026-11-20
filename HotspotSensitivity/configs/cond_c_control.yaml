@@ -1,0 +1,4 @@
+cond_c_control:
+  input: ../data/target_5O45.pdb
+  contig: 60-90,/0,A18-132
+  is_non_loopy: True

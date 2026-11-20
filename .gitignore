@@ -1,10 +1,17 @@
 .DS_Store
+.vscode
 
 RFDiffusion2/ 
 RFDiffusion3/ 
+test/
+
+*.cif
+*.fa
+*.csv
+*.gz
+*.json
 
 
-project-1
 project-2
 project-3
 project-4
